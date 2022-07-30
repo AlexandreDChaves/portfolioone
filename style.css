@@ -1,0 +1,13 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.jumbotron {
+    margin: 0;
+}
+
+.foto{
+	height: 100%;
+	width: auto;
+	max-width: 100%;
+	}
